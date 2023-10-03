@@ -69,7 +69,7 @@ function FAQEn() {
                                     If the user enters an operator (+, -, x, /) without inputting the next number, an alert should be displayed when '=' is pressed.
                                 </li>
                                 <li>
-                                    Exceptional cases like dividing zero by zero should be displayed as 'Not a Number (숫자 아님).'
+                                    Exceptional cases like dividing zero by zero should be displayed as 'Invalid input (숫자가 아닙니다).'
                                 </li>
                             </ul>
 
