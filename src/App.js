@@ -9,10 +9,10 @@ function App() {
     return (
         <Router>
             <Routes>
-                <Route exact path='/' element={<Main/>}/>
-                <Route exact path='/FAQ' element={<FAQEn/>}/>
-                <Route exact path='/ko' element={<MainKo/>}/>
-                <Route exact path='/ko/FAQ' element={<FAQKo/>}/>
+                <Route exact path='/won-calculator' element={<Main/>}/>
+                <Route exact path='/won-calculator/FAQ' element={<FAQEn/>}/>
+                <Route exact path='/won-calculator/ko' element={<MainKo/>}/>
+                <Route exact path='/won-calculator/ko/FAQ' element={<FAQKo/>}/>
             </Routes>
         </Router>
     );
