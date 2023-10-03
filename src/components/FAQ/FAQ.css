@@ -1,0 +1,37 @@
+.faq-page {
+    max-width: 700px;
+}
+
+.faq-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.faq-section {
+    padding: 20px;
+    white-space: pre-wrap;
+    word-break: keep-all;
+    background-color: whitesmoke;
+}
+
+.faq-section h2 {
+    margin: 10px 10px 40px 10px;
+}
+
+.faq-section ol {
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.faq-section ol li {
+    margin-top: 5px;
+}
+
+.faq-section ul {
+    font-weight: normal;
+    padding: 10px 10px 30px 20px;
+}
+
+.faq-section ul li {
+    list-style-type: square;
+}

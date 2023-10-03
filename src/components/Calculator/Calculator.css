@@ -1,0 +1,143 @@
+.calculator {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    max-height: 700px;
+    margin: 90px auto;
+    padding: 20px;
+    background-color: black;
+    border-radius: 5px;
+    box-shadow: 0 54px 55px rgba(0, 0, 0, 0.25), 0 -12px 30px rgba(0, 0, 0, 0.12), 0 4px 6px rgba(0, 0, 0, 0.12), 0 12px 13px rgba(0, 0, 0, 0.17), 0 -3px 5px rgba(0, 0, 0, 0.09);
+}
+
+.display-container {
+    height: 200px;
+}
+
+.display-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.title {
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: start;
+    color: white;
+}
+
+.display {
+    text-align: right;
+    padding: 10px;
+    background-color: #181818;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    margin: 10px 5px;
+}
+
+.paper-trail {
+    background-color: #181818;
+    /*border: 1px solid #ccc;
+    border-radius: 5px;*/
+    color: grey;
+    font-size: small;
+    padding: 10px;
+    /*overflow-y: auto;
+    max-height: 200px;*/
+}
+
+.display-bottom {
+    font-size: xx-large;
+    margin-top: 5px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    text-align: right;
+}
+
+.display-value {
+    display: flex;
+    align-items: flex-end;
+}
+
+.won-symbol::before {
+    content: "\00a0";
+}
+
+.buttons-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.button-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.button {
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    padding: 10px;
+    background-color: #181818;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    margin: 5px;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.button:active {
+    background-color: grey;
+}
+
+.operation-button {
+    color: green;
+}
+
+.operation-button:focus {
+    background-color: whitesmoke;
+}
+
+.special-button.all-clear-button {
+    background-color: red;
+    color: white;
+    font-size: x-large;
+    width: 60px;
+    height: 60px;
+    margin: 0 5px;
+}
+
+.special-button.all-clear-button:active {
+    background-color: whitesmoke;
+    color: red;
+}
+
+.special-button.clear-button {
+    color: red;
+}
+
+.special-button.clear-button:active {
+    background-color: lightgrey;
+}
+
+.special-button.equals-button {
+    background-color: green;
+    color: white;
+}
+
+.special-button.equals-button:focus {
+    background-color: white;
+    color: green;
+    transform: scale(1.08);
+    box-shadow: inset 0 54px 55px rgba(0, 0, 0, 0.25), inset 0 -12px 30px rgba(0, 0, 0, 0.12), inset 0 4px 6px rgba(0, 0, 0, 0.12), inset 0 12px 13px rgba(0, 0, 0, 0.17), inset 0 -3px 5px rgba(0, 0, 0, 0.09);
+}
