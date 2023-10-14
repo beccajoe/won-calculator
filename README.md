@@ -26,7 +26,7 @@
    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 </p>
-<h3 id="주제-배경-및-차별점">✖️ 주제-배경-및-차별점</h2>
+<h3 id="주제-배경-및-차별점">✖️ 주제 배경 및 차별점</h2>
 <ul>
    <li><b>주제 배경: </b><br>
    한국 원화(KRW) 계산을 간편하게 수행할 수 있는 특수한 목적을 가진 계산기로 한국 내 거주자와 외국인 모두가 여행, 비즈니스, 또는 금융 거래와 같은 다양한 용도로 한국 원화를 정확하게 계산할 수 있도록 돕습니다.
