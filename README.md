@@ -4,10 +4,20 @@ Korean Won (KRW) Calculator Website Development Project <br>
 
 <h2>목차</h2>
 <ol style="margin-top: 0; margin-bottom: 0;">
+   <li><a href="#보완사항">보완사항</a></li>
    <li><a href="#회고글">회고글: 항해 플러스 코육대</a></li>
+   <li><a href="#바로가기">바로가기</a></li>
 </ol>
 
-<h2 id="회고글">회고글: 항해 플러스 코육대</h2>
+<h2 id="보완사항">📋 보완사항</h2>
+ <ul>
+      <li><b>사용자 친화적인 오류 메시지</b><br>
+         오류 메시지를 개선하여 무엇이 잘못되었는지에 대한 명확한 설명과 문제를 해결하는 데 도움을 주는 가이드가 필요합니다.<br></li>
+      <li><b>원활한 실행을 위한 리액트 앱 테스트 코드</b><br>
+         흠잡을 데 없는 테스트 커버리지를 통해 앱이 원활하게 실행되며 중요한 문제점이 없는지 확인해야 할 수 있어야 있습니다.<br></li>
+   </ul>
+
+<h2 id="회고글">✍️ 회고글: 항해 플러스 코육대</h2>
 <ul>
     <li><b>기능 구현 설명</b><br>
       <ul>
@@ -28,3 +38,6 @@ Korean Won (KRW) Calculator Website Development Project <br>
     </li>
     <li><a href="https://hanghaeplus-coyukdae.oopy.io/">코육대 이벤트 페이지 링크</a></li>
 </ul>
+
+<h2 id="바로가기">🔗 바로가기</h2>
+<a href="https://beccajoe.github.io/won-calculator/">배포 링크</a>
