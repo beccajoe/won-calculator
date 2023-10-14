@@ -8,6 +8,7 @@
    <ul>
       <li><a href="#개발-기간">개발 기간</a></li>
       <li><a href="#기술-스택">기술 스택</a></li>
+      <li><a href="#차별점">차별점</a></li>
    </ul>
    <li><a href="#주요-기능">주요 기능 TBU</a></li>
    <li><a href="#보완사항">보완사항</a></li>
@@ -25,6 +26,8 @@
    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 </p>
+<h3 id="차별점">✖️ 차별점</h2>
+일반적인 계산기와는 달리 WON CALCULATOR는 한국 원화(KRW)를 정확하게 계산하는 데 중점을 두며, 원화 기호와 숫자 포맷팅을 특징으로 하는 독특한 특징을 갖춘 웹사이트로, 굉장히 유용한 도구로 돋보입니다.
 
 <h2 id="주요-기능">▶️ 주요 기능</h2>
 TBU
