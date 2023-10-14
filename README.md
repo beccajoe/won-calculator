@@ -1,13 +1,33 @@
-<h1>🖩 WON CALCULATOR</h1>
-Korean Won (KRW) Calculator Website Development Project <br>
-한국 원화(KRW) 계산기 웹사이트 개발 프로젝트
+<h1>🔢 WON CALCULATOR</h1>
+한국 원화(KRW) 계산기 웹사이트 개발 프로젝트<br>
+<em>➜ 항해 플러스 제1회 코육대 세뱃돈 계산기 종목 출전작</em>
 
 <h2>목차</h2>
 <ol style="margin-top: 0; margin-bottom: 0;">
+   <li><a href="#프로젝트-소개">프로젝트 소개</a></li>
+   <ul>
+      <li><a href="#개발-기간">개발 기간</a></li>
+      <li><a href="#기술-스택">기술 스택</a></li>
+   </ul>
+   <li><a href="#주요-기능">주요 기능 TBU</a></li>
    <li><a href="#보완사항">보완사항</a></li>
    <li><a href="#회고글">회고글: 항해 플러스 코육대</a></li>
    <li><a href="#바로가기">바로가기</a></li>
 </ol>
+
+<h2 id="프로젝트-소개">🗂️ 프로젝트 소개</h2>
+<h3 id="개발-기간">➕ 개발 기간</h2>
+2023.09.29-10.03 (총 4일)
+<h3 id="기술-스택">➖ 기술 스택</h2>
+<p>
+   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+</p>
+
+<h2 id="주요-기능">▶️ 주요 기능</h2>
+TBU
 
 <h2 id="보완사항">📋 보완사항</h2>
  <ul>
