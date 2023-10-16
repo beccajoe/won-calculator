@@ -13,7 +13,7 @@ function HeaderKo() {
         <header className="header">
             <div className="top">
                 <div className="left">
-                    <h1><Link to="/ko" className="header-link">WON CALCULATOR</Link></h1>
+                    <h1><Link to="/won-calculator/ko" className="header-link">WON CALCULATOR</Link></h1>
                 </div>
                 <div className="right">
                     <div className="language-dropdown">
@@ -25,10 +25,10 @@ function HeaderKo() {
                         </button>
                         <div className={`dropdown-content ${isDropdownOpen ? 'show' : ''}`}>
                             {selectedLanguage !== 'EN' && (
-                                <a href="/">English</a>
+                                <a href="/won-calculator">English</a>
                             )}
                             {selectedLanguage !== 'KO' && (
-                                <a href="/ko">한국어</a>
+                                <a href="/won-calculator/ko">한국어</a>
                             )}
                         </div>
                     </div>

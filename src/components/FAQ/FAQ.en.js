@@ -10,7 +10,7 @@ function FAQEn() {
             <header className="header">
                 <div className="top">
                     <div className="left">
-                        <h1><Link to="/ko" className="header-link">WON CALCULATOR</Link></h1>
+                        <h1><Link to="/won-calculator" className="header-link">WON CALCULATOR</Link></h1>
                     </div>
                 </div>
             </header>
