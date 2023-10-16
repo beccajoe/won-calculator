@@ -12,7 +12,7 @@
       <li><a href="#폴더-구조">폴더 구조</a></li>
    </ul>
    <li><a href="#화면-구성">화면 구성</a></li>
-   <li><a href="#주요-기능">주요 기능 TBU</a></li>
+   <li><a href="#주요-기능">주요 기능</a></li>
    <li><a href="#보완사항">보완사항</a></li>
    <li><a href="#회고글">회고글: 항해 플러스 코육대</a></li>
    <li><a href="#바로가기">바로가기</a></li>
@@ -92,25 +92,68 @@
 <h2 id="화면-구성">🧮 화면 구성</h2>
 <table>
    <tr>
-      <th>Main Page (Eng.)</th>
-      <th>메인 페이지 (국문)</th>
+      <th width="50%">Main Page (Eng.)</th>
+      <th width="50%">메인 페이지 (국문)</th>
    </tr>
    <tr>
-      <th><img src="https://github.com/beccajoe/won-calculator/assets/123378408/8658a735-2012-4a48-88cc-254958bef8da" alt="Main Page" height="500"></th>
-      <th><img src="https://github.com/beccajoe/won-calculator/assets/123378408/30ec6835-69f3-4e21-b89a-626bd79ba545" alt="메인 페이지" height="500"></th>
+      <th><img src="https://github.com/beccajoe/won-calculator/assets/123378408/8658a735-2012-4a48-88cc-254958bef8da" alt="Main Page" width="720" height="auto"></th>
+      <th><img src="https://github.com/beccajoe/won-calculator/assets/123378408/30ec6835-69f3-4e21-b89a-626bd79ba545" alt="메인 페이지" width="720" height="auto"></th>
    </tr>
    <tr>
-      <th>Frequently Asked Questions (FAQ)</th>
-      <th>자주 묻는 질문 (FAQ)</th>
+      <th width="50%">Frequently Asked Questions (FAQ)</th>
+      <th width="50%">자주 묻는 질문 (FAQ)</th>
    </tr>
    <tr>
-      <th><img src="https://github.com/beccajoe/won-calculator/assets/123378408/aadd3fba-4e36-4cd6-8b00-3c8eb1e4e85e" alt="Frequently Asked Questions (FAQ)" height="500"></th>
-      <th><img src="https://github.com/beccajoe/won-calculator/assets/123378408/e527a8cc-2115-452b-aa19-a62908f0d885" alt="자주 묻는 질문 (FAQ)" height="500"></th>
+      <th><img src="https://github.com/beccajoe/won-calculator/assets/123378408/aadd3fba-4e36-4cd6-8b00-3c8eb1e4e85e" alt="Frequently Asked Questions (FAQ)" width="720" height="auto"></th>
+      <th><img src="https://github.com/beccajoe/won-calculator/assets/123378408/e527a8cc-2115-452b-aa19-a62908f0d885" alt="자주 묻는 질문 (FAQ)" width="720" height="auto"></th>
    </tr>
 </table>
 
 <h2 id="주요-기능">▶️ 주요 기능</h2>
-TBU
+<table>
+   <tr>
+      <th width="50%">디스플레이 관리</th>
+      <th width="50%">사용자 입력 기록</th>
+   </tr>
+   <tr>
+      <td>
+         <ul>
+            <li>toLocaleString() 함수를 이용하여 숫자에 3자리마다 쉼표를 추가하며, 한국 원화(₩) 기호를 오른쪽에 고정하여 디스플레이합니다.</li>
+            <li>숫자를 입력하면 해당 숫자가 표시되며, 연산자를 선택하면 현재까지 계산된 값이 표시됩니다.</li>
+         </ul>
+      </td>
+      <td>
+         <ul>
+            <li>현재 계산에서 사용자가 입력한 문자를 기록하고, AC 버튼으로 초기화하거나 C 버튼으로 마지막 문자를 제거한 경우를 제외합니다.</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://github.com/beccajoe/won-calculator/assets/123378408/7e8d98de-24b8-4bbf-86f9-4edc305646cc" alt="디스플레이 관리 기능" width="100%" height="auto"></td>
+      <td><img src="https://github.com/beccajoe/won-calculator/assets/123378408/b84347a8-8f72-478d-b2cf-53587c4d3be9" alt="사용자 입력 기록 기능" width="100%" height="auto"></td>
+   </tr>
+   <tr>
+      <th width="50%">다수의 연산</th>
+      <th width="50%">언어 선택</th>
+   </tr>
+   <tr>
+      <td>
+         <ul>
+            <li>연속적인 계산에서 연산자를 입력하면 이전 연산자를 사용하여 앞뒤 숫자를 사전에 계산합니다.</li>
+            <li>연속해서 연산자를 선택한 경우, 가장 마지막에 선택한 연산자를 적용합니다.</li>
+         </ul>
+      </td>
+      <td>
+         <ul>
+            <li>드롭다운 메뉴 내의 옵션을 통해 헤더, 풋터 및 FAQ 링크가 변경됩니다.</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://github.com/beccajoe/won-calculator/assets/123378408/d4a97060-54a2-48d2-a741-d3ac0fa88002" alt="다수의 연산 기능" width="100%" height="auto"></td>
+      <td><img src="https://github.com/beccajoe/won-calculator/assets/123378408/916e8140-02bf-482f-9014-b49b92eb7d0c" alt="언어 선택 기능" width="100%" height="auto"></td>
+   </tr>
+</table>
 
 <h2 id="보완사항">📋 보완사항</h2>
  <ul>
