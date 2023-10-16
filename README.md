@@ -6,9 +6,9 @@
 <ol style="margin-top: 0; margin-bottom: 0;">
    <li><a href="#프로젝트-소개">프로젝트 소개</a></li>
    <ul>
-      <li><a href="#개발-기간">개발 기간</a></li>
-      <li><a href="#기술-스택">기술 스택</a></li>
       <li><a href="#배경-및-차별점">배경 및 차별점</a></li>
+      <li><a href="#기술-스택">기술 스택</a></li>
+      <li><a href="#개발-기간">개발 기간</a></li>
       <li><a href="#폴더-구조">폴더 구조</a></li>
    </ul>
    <li><a href="#주요-기능">주요 기능 TBU</a></li>
@@ -18,8 +18,11 @@
 </ol>
 
 <h2 id="프로젝트-소개">🗂️ 프로젝트 소개</h2>
-<h3 id="개발-기간">➕ 개발 기간</h2>
-2023.09.29-10.03 (총 4일)
+<h3 id="배경-및-차별점">➕ 배경 및 차별점</h2>
+<ul> 
+   <li>한국 원화(KRW) 계산을 간편하게 수행할 수 있는 특수한 목적을 가진 계산기로 한국 내 거주자와 외국인 모두가 여행, 비즈니스, 또는 금융 거래와 같은 다양한 용도로 활용할 수 있습니다.</li>
+   <li>일반적인 계산기와는 달리 한국 원화(KRW)를 정확하게 계산하는 데 중점을 두며, 원화 기호와 숫자 포맷팅이 특징입니다.</li>
+</ul>
 <h3 id="기술-스택">➖ 기술 스택</h2>
 <p>
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
@@ -27,11 +30,9 @@
    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 </p>
-<h3 id="배경-및-차별점">✖️ 배경 및 차별점</h2>
-<ul> 
-   <li>한국 원화(KRW) 계산을 간편하게 수행할 수 있는 특수한 목적을 가진 계산기로 한국 내 거주자와 외국인 모두가 여행, 비즈니스, 또는 금융 거래와 같은 다양한 용도로 활용할 수 있습니다.</li>
-   <li>일반적인 계산기와는 달리 한국 원화(KRW)를 정확하게 계산하는 데 중점을 두며, 원화 기호와 숫자 포맷팅이 특징입니다.</li>
-</ul>
+<h3 id="개발-기간">✖️ 개발 기간</h2>
+2023.09.29-10.03 (총 4일)<br>
+<img src="https://github.com/beccajoe/won-calculator/assets/123378408/7c83e016-f006-4152-bce7-8b5f3bb01f80" alt="Won Calculator Timeline">
 <h3 id="폴더-구조">➗ 폴더 구조</h2>
 <pre>
 📦src
