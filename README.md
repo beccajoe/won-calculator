@@ -11,6 +11,7 @@
       <li><a href="#개발-기간">개발 기간</a></li>
       <li><a href="#폴더-구조">폴더 구조</a></li>
    </ul>
+   <li><a href="#화면-구성">화면 구성</a></li>
    <li><a href="#주요-기능">주요 기능 TBU</a></li>
    <li><a href="#보완사항">보완사항</a></li>
    <li><a href="#회고글">회고글: 항해 플러스 코육대</a></li>
@@ -87,6 +88,26 @@
  ┣ 📜reportWebVitals.js
  ┗ 📜setupTests.js
 </pre>
+
+<h2 id="화면-구성">🧮 화면 구성</h2>
+<table>
+   <tr>
+      <th>Main Page (Eng.)</th>
+      <th>메인 페이지 (국문)</th>
+   </tr>
+   <tr>
+      <th><img src="https://github.com/beccajoe/won-calculator/assets/123378408/8658a735-2012-4a48-88cc-254958bef8da" alt="Main Page" height="500"></th>
+      <th><img src="https://github.com/beccajoe/won-calculator/assets/123378408/30ec6835-69f3-4e21-b89a-626bd79ba545" alt="메인 페이지" height="500"></th>
+   </tr>
+   <tr>
+      <th>Frequently Asked Questions (FAQ)</th>
+      <th>자주 묻는 질문 (FAQ)</th>
+   </tr>
+   <tr>
+      <th><img src="https://github.com/beccajoe/won-calculator/assets/123378408/aadd3fba-4e36-4cd6-8b00-3c8eb1e4e85e" alt="Frequently Asked Questions (FAQ)" height="500"></th>
+      <th><img src="https://github.com/beccajoe/won-calculator/assets/123378408/e527a8cc-2115-452b-aa19-a62908f0d885" alt="자주 묻는 질문 (FAQ)" height="500"></th>
+   </tr>
+</table>
 
 <h2 id="주요-기능">▶️ 주요 기능</h2>
 TBU
