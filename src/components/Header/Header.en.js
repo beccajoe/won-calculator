@@ -34,14 +34,14 @@ function HeaderEn() {
                         </button>
                         <div className={`dropdown-content ${isDropdownOpen ? 'show' : ''}`}>
                             {selectedLanguage !== 'EN' && (
-                                <a href="/won-calculator" onClick={() => handleLanguageChange('EN')}>
+                                <Link to="/won-calculator" onClick={() => handleLanguageChange('en')}>
                                     English
-                                </a>
+                                </Link>
                             )}
                             {selectedLanguage !== 'KO' && (
-                                <a href="/won-calculator/ko" onClick={() => handleLanguageChange('KO')}>
+                                <Link to="/won-calculator/ko" onClick={() => handleLanguageChange('ko')}>
                                     한국어
-                                </a>
+                                </Link>
                             )}
                         </div>
                     </div>
