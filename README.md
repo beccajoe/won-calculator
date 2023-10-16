@@ -24,12 +24,28 @@
    <li>일반적인 계산기와는 달리 한국 원화(KRW)를 정확하게 계산하는 데 중점을 두며, 원화 기호와 숫자 포맷팅이 특징입니다.</li>
 </ul>
 <h3 id="기술-스택">➖ 기술 스택</h2>
-<p>
-   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-</p>
+<ul>
+   <li><b>Environment</b><br>
+   <p>
+      <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+   </p>
+   </li>
+   <li><b>Config</b><br>
+   <p>
+      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+   </p>
+   </li>
+   <li><b>Development</b><br>
+   <p>
+      <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+      <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+      <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+   </p>
+   </li>
+</ul>
 <h3 id="개발-기간">✖️ 개발 기간</h2>
 2023.09.29-10.03 (총 4일)<br>
 <img src="https://github.com/beccajoe/won-calculator/assets/123378408/7c83e016-f006-4152-bce7-8b5f3bb01f80" alt="Won Calculator Timeline">
