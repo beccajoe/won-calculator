@@ -1,19 +1,28 @@
-import React, {useState} from 'react';
-import {Link} from 'react-router-dom';
+import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 function HeaderKo() {
     const [isDropdownOpen, setDropdownOpen] = useState(false);
-    const [selectedLanguage] = useState(null);
+    const [selectedLanguage, setSelectedLanguage] = useState(null);
 
     const toggleDropdown = () => {
         setDropdownOpen(!isDropdownOpen);
+    };
+
+    const handleLanguageChange = (language) => {
+        setSelectedLanguage(language);
+        setDropdownOpen(false);
     };
 
     return (
         <header className="header">
             <div className="top">
                 <div className="left">
-                    <h1><Link to="/won-calculator/ko" className="header-link">WON CALCULATOR</Link></h1>
+                    <h1>
+                        <Link to="/won-calculator/ko" className="header-link">
+                            WON CALCULATOR
+                        </Link>
+                    </h1>
                 </div>
                 <div className="right">
                     <div className="language-dropdown">
@@ -25,10 +34,14 @@ function HeaderKo() {
                         </button>
                         <div className={`dropdown-content ${isDropdownOpen ? 'show' : ''}`}>
                             {selectedLanguage !== 'EN' && (
-                                <a href="/won-calculator">English</a>
+                                <a href="/won-calculator" onClick={() => handleLanguageChange('en')}>
+                                    English
+                                </a>
                             )}
                             {selectedLanguage !== 'KO' && (
-                                <a href="/won-calculator/ko">한국어</a>
+                                <a href="/won-calculator/ko" onClick={() => handleLanguageChange('ko')}>
+                                    한국어
+                                </a>
                             )}
                         </div>
                     </div>
