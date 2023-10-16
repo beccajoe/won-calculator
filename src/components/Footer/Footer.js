@@ -14,7 +14,7 @@ function Footer() {
     const footerContent =
         selectedLanguage === 'ko' ? FooterContentKo : FooterContentEn;
 
-    const faqLinkPath = selectedLanguage === 'ko' ? '/ko/FAQ' : '/FAQ';
+    const faqLinkPath = selectedLanguage === 'ko' ? '/won-calculator/ko/FAQ' : '/won-calculator/FAQ';
 
     return (
         <footer className="footer">
