@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/won-calculator/static/css/main.d4615d00.css",
-    "main.js": "/won-calculator/static/js/main.5d1d1221.js",
+    "main.js": "/won-calculator/static/js/main.50bfc325.js",
     "static/js/787.7f5e3045.chunk.js": "/won-calculator/static/js/787.7f5e3045.chunk.js",
     "index.html": "/won-calculator/index.html",
     "main.d4615d00.css.map": "/won-calculator/static/css/main.d4615d00.css.map",
-    "main.5d1d1221.js.map": "/won-calculator/static/js/main.5d1d1221.js.map",
+    "main.50bfc325.js.map": "/won-calculator/static/js/main.50bfc325.js.map",
     "787.7f5e3045.chunk.js.map": "/won-calculator/static/js/787.7f5e3045.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4615d00.css",
-    "static/js/main.5d1d1221.js"
+    "static/js/main.50bfc325.js"
   ]
 }
