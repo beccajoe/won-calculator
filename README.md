@@ -186,4 +186,4 @@
 </ul>
 
 <h2 id="바로가기">🔗 바로가기</h2>
-<a href="https://beccajoe.github.io/won-calculator/">배포 링크</a>
+<a href="https://yeon0123.github.io/won-calculator/">배포 링크</a>
