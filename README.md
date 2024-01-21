@@ -1,6 +1,8 @@
 <h1>🔢 WON CALCULATOR</h1>
-한국 원화(KRW) 계산기 웹사이트 개발 프로젝트<br>
-<em>➜ 항해 플러스 제1회 코육대 세뱃돈 계산기 종목 출전작</em>
+한국 원화(KRW) 계산기 웹사이트 개발 프로젝트<br/><br/>
+<blockquote>
+   항해 플러스 제1회 코육대 세뱃돈 계산기 종목 출전작
+</blockquote>
 
 <h2>목차</h2>
 <ol style="margin-top: 0; margin-bottom: 0;">
